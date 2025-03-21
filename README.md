@@ -10,7 +10,7 @@
   - Gosto de Jogos e Gatos
 </div>
 
-<img https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif>
+<img https://media.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif/>
 
 <div>
   <h1> Notes:</h1>
